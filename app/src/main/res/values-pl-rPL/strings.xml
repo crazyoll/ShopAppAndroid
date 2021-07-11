@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Projekt</string>
+    <string name="title_activity_add_shop">Dodaj sklep</string>
+    <string name="title_activity_product_list">Lista produktów</string>
+    <string name="title_activity_details">Szczegoły</string>
+    <string name="title_activity_add_product">Dodaj produkt</string>
+    <string name="Google_maps_api_key">AIzaSyAwa_n2vkGHVPAqjRb4r2hhGxmhZ6O5hXc</string>
+    <string name="title_activity_map">Mapa</string>
+    <string name="add_text">Dodaj</string>
+    <string name="edit_text">Edytuj</string>
+    <string name="delete_text">Usuń</string>
+    <string name="save_text">Zapisz</string>
+    <string name="register_text">Zarejestruj się</string>
+    <string name="buy_text">Kup</string>
+    <string name="login_text">Zaloguj</string>
+    <string name="add_product">Dodaj produkt</string>
+    <string name="product_list">Lista produktów</string>
+    <string name="add_shop">Dodaj sklep</string>
+    <string name="shop_list">Lista sklepów</string>
+    <string name="register_text_top">Podaj swoje dane</string>
+    <string name="Project_title">Projekt</string>
+
+</resources>

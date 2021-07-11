@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="title_activity_add_shop">AddShopActivity</string>
+    <string name="title_activity_product_list">ProductList</string>
+    <string name="title_activity_details">Details</string>
+    <string name="title_activity_add_product">AddProductActivity</string>
+    <string name="Google_maps_api_key">AIzaSyAwa_n2vkGHVPAqjRb4r2hhGxmhZ6O5hXc</string>
+    <string name="title_activity_map">Map</string>
+    <string name="add_text">Add</string>
+    <string name="edit_text">Edit</string>
+    <string name="delete_text">Delete</string>
+    <string name="save_text">Save</string>
+    <string name="register_text">Register</string>
+    <string name="buy_text">Buy</string>
+    <string name="login_text">Log in</string>
+    <string name="add_product">Add Product</string>
+    <string name="product_list">Product List</string>
+    <string name="add_shop">Add Shop</string>
+    <string name="shop_list">Shop List</string>
+    <string name="register_text_top">Enter your details</string>
+</resources>
